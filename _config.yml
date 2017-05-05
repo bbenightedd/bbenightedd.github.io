@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Mina Davoudi-The future fashion designer
+email: bbenightedd@gmail.com
+url: https://minadavoudi.ir
+description: "This is mina's personal website, her sketches, designs and photos."
+skills: "designing"
+meta_author: Davoudi Mina
 
 # Google webmaster tools
 google_verify:
@@ -31,8 +31,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Mina Davoudi
+  location: Tehran
   social: Around the Web
   credits: Credits
 
@@ -51,8 +51,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Tehran
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
